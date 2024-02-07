@@ -1,7 +1,9 @@
 # Create an interactive plot of Zcrit using Plotly + Dash
 
 Link to [Plotly](https://plotly.com/python/)
+
 Link to [Dash](https://dash.plotly.com/)
+
 Link to [Lim et al. (2024)](https://arxiv.org/abs/2312.12508)
 
 'collapse_data.txt' contains whether a simulation forms planetesimals (Y) or not (N). First three columns show alpha, tau, and Z values of each run. 
