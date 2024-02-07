@@ -157,7 +157,7 @@ app.layout = html.Div([
         html.H1('Conditions for Planetesimal Formation',
                 style = {'textAlign':'center'}),
 
-        html.Div("(Test: Hover on points/squares to display related info)",
+        html.Div("(Hover on points/squares to display related info)",
            style ={
                'textAlign': 'center',
                'fontSize': '20px'
