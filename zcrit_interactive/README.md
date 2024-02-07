@@ -1,8 +1,8 @@
 # Create an interactive plot of Zcrit using Plotly + Dash
 
-Link to [Plotly] (https://plotly.com/python/)
-Link to [Dash] (https://dash.plotly.com/)
-Link to [Lim et al. (2024)] (https://arxiv.org/abs/2312.12508)
+Link to [Plotly](https://plotly.com/python/)
+Link to [Dash](https://dash.plotly.com/)
+Link to [Lim et al. (2024)](https://arxiv.org/abs/2312.12508)
 
 'collapse_data.txt' contains whether a simulation forms planetesimals (Y) or not (N). First three columns show alpha, tau, and Z values of each run. 
 
@@ -16,7 +16,7 @@ Note that by default, Dash apps run on 'localhost'—you can only access them on
 
 The interative plot here is deployed to Google Cloud to get a public URL to this plot. 
 
-To learn how to deploy using Google Cloud, the best resource I've found is this [YouTube] (https://www.youtube.com/watch?v=1VewIO2Yhmo&t=216s) by 
+To learn how to deploy using Google Cloud, the best resource I've found is this [YouTube](https://www.youtube.com/watch?v=1VewIO2Yhmo&t=216s) by 
 Federico Tartarini
 
 
