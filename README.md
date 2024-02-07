@@ -4,4 +4,4 @@ This repository contains plots of the following:
 2. Spacetime diagram (z/H vs time) and 1D vertical profile of particle density (in particle_density_vertical_profiles directory)
 3. Final 2D snapshots of particle density (in final_snapshots directory). 
 4. To play with interactive plot of Z_crit, please visit  [Zcrit-interactive-plot](https://turb-si-interactive-zcrit-plot-vykz33h7mq-uc.a.run.app/)
-5. All necessary data to create the interactive plot is in 'zcrit_interactive'  
+5. All necessary data to create the interactive plot is in [zcrit_interactive](https://github.com/simon-research-group/Jeonghoon_Public/tree/main/zcrit_interactive)
