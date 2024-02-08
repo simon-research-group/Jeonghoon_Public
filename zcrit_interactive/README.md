@@ -1,5 +1,7 @@
 # Create an interactive plot of Zcrit using Plotly + Dash
 
+Link to [the interative figure](https://turb-si-interactive-zcrit-plot-vykz33h7mq-uc.a.run.app/)
+
 Link to [Plotly](https://plotly.com/python/)
 
 Link to [Dash](https://dash.plotly.com/)
@@ -20,7 +22,6 @@ The interative plot here is deployed to Google Cloud to get a public URL to this
 
 To learn how to deploy using Google Cloud, the best resource I've found is this [YouTube](https://www.youtube.com/watch?v=1VewIO2Yhmo&t=216s) by 
 Federico Tartarini
-
 
 ##command for deployment into Google Cloud (The gcloud CLI must be installed)  
 
