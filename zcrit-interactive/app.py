@@ -173,6 +173,10 @@ app.layout = html.Div([
     html.A("Link to Jeonghoon's personal webpage", href='https://jhlim.weebly.com/',target='_blank')
     ),
 
+    html.Div(
+    html.A("Link to Jeonghoon's public github", href='https://github.com/simon-research-group/Jeonghoon_Public',target='_blank')
+    ),
+
     dcc.Graph(id='surface-plot',
              figure=surface_fig), #Placeholder for Z_crit(tau,alpha)
 
