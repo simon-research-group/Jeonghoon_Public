@@ -23,7 +23,7 @@ The interative plot here is deployed to Google Cloud to get a public URL to this
 To learn how to deploy using Google Cloud, the best resource I've found is this [YouTube](https://www.youtube.com/watch?v=1VewIO2Yhmo&t=216s) by 
 Federico Tartarini
 
-##command for deployment into Google Cloud (The gcloud CLI must be installed)  
+### command for deployment into Google Cloud (The gcloud CLI must be installed)  
 
 gcloud builds submit --tag gcr.io/turb-si-interactive-zcrit/turb-si-interactive-zcrit-plot  --project=turb-si-interactive-zcrit
 
